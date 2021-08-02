@@ -1,5 +1,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DroidBarber&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DroidBarber&show_icons=true&theme=radical)
+
+
 
 <!--
 **DroidBarber/DroidBarber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
