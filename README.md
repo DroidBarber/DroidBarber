@@ -7,9 +7,9 @@
  
  🌱 Interests:
  
- • 🌐Web & Android dev 
- • 🥽VR & mixed reality 
- • 🧠AI & Neural networks
+ • 🌐Web & Android dev <br>
+ • 🥽VR & mixed reality <br>
+ • 🧠AI & Neural networks <br>
  
  📫 Visit my website: https://droidbarber.github.io/personal-portfolio/
 
