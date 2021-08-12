@@ -5,8 +5,6 @@
 
  • Financial stocks DD analysis and classification (r/WallStreetBets) (ReactJS + Python/Django + PySpark + scitkit-learn).
  
- 🎧 Discord: DroidBarber#8277
- 
  🌱 Interests:
  
  • 🌐Web & Android dev <br>
