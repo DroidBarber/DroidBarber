@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DroidBarber&show_icons=true&theme=tokyonight ) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DroidBarber&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DroidBarber&show_icons=true&theme=tokyonight&hide_border ) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DroidBarber&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
          
 
 
