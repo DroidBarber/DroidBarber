@@ -17,7 +17,7 @@
  • 🥽VR & mixed reality <br>
  • 🧠AI & Neural networks <br>
  
- 📫 Visit my website: https://droidbarber.github.io/personal-portfolio/
+ 📫 Visit my website: https://vdogportfolio.vercel.app/
 
 <!--
 **DroidBarber/DroidBarber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
