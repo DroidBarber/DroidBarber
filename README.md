@@ -2,9 +2,8 @@
 | ------------- | ------------- |
 
 
-
-
-
+<b>🔥 Github Streaks</b>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DroidBarber&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="DroidBarber" /></p>
 
 
 🔭 Current project:
@@ -18,6 +17,8 @@
  • 🧠AI & Neural networks <br>
  
  📫 Visit my website: https://vdogportfolio.vercel.app/
+ 
+ 
 
 <!--
 **DroidBarber/DroidBarber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
