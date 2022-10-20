@@ -2,6 +2,30 @@
 | ------------- | ------------- |
 
 
+<b>🔥 Github Streaks</b>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DroidBarber&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="DroidBarber" /></p>
+
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=DroidBarber&hide_border=true&theme=redical)
+
+  <!--   grid-snake -->
+  ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
+  
+## :abacus: Last 7 days of Language usage
+
+<!--START_SECTION:waka-->
+
+```text
+Total Time: 20 hrs 4 mins
+
+JavaScript       8 hrs 38 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.08 %
+TypeScript       2 hrs 53 mins   ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.43 %
+CSS              2 hrs 5 mins    ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.40 %
+Other            1 hr 26 mins    ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.16 %
+```
+
+<!--END_SECTION:waka-->
+
+
 🔭 Current project:
 
  • Financial stocks DD analysis and classification (r/WallStreetBets) (ReactJS + Python/Django + PySpark + scitkit-learn).
