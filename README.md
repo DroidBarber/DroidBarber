@@ -5,8 +5,6 @@
 <b>🔥 Github Streaks</b>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DroidBarber&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="DroidBarber" /></p>
 
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=DroidBarber&hide_border=true&theme=redical)
-
   <!--   grid-snake -->
   ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
   
